@@ -21,3 +21,5 @@ for (let i = 0; i < len - 1; i++) {
   result = num + " = " + result
   sum === num ? console.log(result) : console.log(num + " is NOT perfect.") // 약수들의 합과 같다면 / 아니라면
 }
+
+// https://www.acmicpc.net/problem/9506
